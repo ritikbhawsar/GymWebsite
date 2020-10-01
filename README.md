@@ -1,2 +1,2 @@
 # GymWebsite
-This is gym website for all fitness Lovers.
+This is GYM website for all fitness Lovers.
